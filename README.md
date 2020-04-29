@@ -36,9 +36,7 @@ Naive-Bayes - 72.16%
 
 Logistic Regression - 82.52%
 
-Neural Netork - 73.73%
+Neural Network - 73.73%
 
-
-K
 
 
